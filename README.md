@@ -1,5 +1,5 @@
 # Quantum Dot Nanofilm Image Segmentation
-PowerPoint slides of presentation given at FSU Undergraduate Research Symposium
+PowerPoint slides of a presentation given at FSU Undergraduate Research Symposium in 2021. 
 
 EFFICIENTLY AUTOMATING SELF-ASSEMBLED QUANTUM-DOT NANOFILM IMAGE SEGMENTATION
 
